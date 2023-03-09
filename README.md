@@ -7,6 +7,12 @@ It is based on [IBM's design
 language](https://www.ibm.com/design/language/color/) and inspired by
 [Oxocarbon](https://github.com/shaunsingh/oxocarbon.nvim).
 
+## Screenshot
+
+![carbon-spice-nvim](https://user-images.githubusercontent.com/15707316/224126011-88172d32-fc99-4d90-8a5e-da262ea58118.png)
+
+## Design
+
 The theme simply uses `vim.api.nvim_set_hl` to set highlight colors and does not aim to provide any customisability as opposed to oxocarbon.
 
 I have previously created some vim/neovim colorschemes but they never stuck
